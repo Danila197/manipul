@@ -927,6 +927,9 @@ body {
 	.block-descr__subtitle {
 		font-size: 22px;
 	}
+	.return::after {
+		width: 22px;
+	}
 	.return__img {
 		width: 60px;
 		height: 60px;
