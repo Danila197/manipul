@@ -507,7 +507,7 @@ body {
 }
 /*---------------*/
 .footer {
-	padding: 50px 0;
+	padding: 50px 0 0;
 	background-color: var(--background);
 }
 .footer__title {
@@ -538,6 +538,7 @@ body {
 	font-weight: 900;
 }
 .footer__map {
+	margin-bottom: 40px;
 }
 .footer__map-point {
 	display: block;
