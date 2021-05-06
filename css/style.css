@@ -41,7 +41,7 @@ body {
 .page {
 	position: relative;
 	background-image: url("../img/bg3.jpg");
-	background-size: contain;
+	/* background-size: contain; */
 	/* background-attachment: fixed; */
 }
 .header {
@@ -196,7 +196,7 @@ body {
 	font-size: 32px;
 }
 .block__video {
-	display: none;
+	/* display: none; */
 	position: absolute;
 	left: 0;
 	top: 100px;
